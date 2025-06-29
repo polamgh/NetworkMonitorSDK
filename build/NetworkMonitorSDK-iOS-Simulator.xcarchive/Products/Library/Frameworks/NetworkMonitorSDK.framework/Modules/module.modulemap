@@ -1,4 +1,0 @@
-framework module NetworkMonitorSDK {
-  header "NetworkMonitorSDK-Swift.h"
-  requires objc
-}
